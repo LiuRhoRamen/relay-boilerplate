@@ -1,0 +1,8 @@
+{
+  "plugins": [
+    "relay",
+    ["import", { "libraryName": "antd", "style": true }],
+    "transform-runtime"
+  ],
+  "presets": [["env", { "modules": false }], "stage-2", "react"]
+}

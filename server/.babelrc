@@ -1,0 +1,4 @@
+{
+  "plugins": ["relay", "transform-runtime"],
+  "presets": [["env", { "node": "current" }], "stage-2", "react"]
+}
