@@ -12,11 +12,11 @@ $ yarn install
 ```
 $ yarn server
 ```
-运行前端Dev Server：
+运行前端Dev Server：
 ```
 $ yarn start
 ```
-在浏览器端输入 http://localhost:3000 打开前端Dev Server，输入 http://localhost:8080 进入GraphiQL进行开发调试。
+在浏览器端输入 http://localhost:3000 打开前端Dev Server，输入 http://localhost:8080 进入GraphiQL进行开发调试。
 
 ## 项目结构
 ````
