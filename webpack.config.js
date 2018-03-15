@@ -145,7 +145,7 @@ module.exports = {
       classNames: "classnames"
     }),
     new HtmlWebpackPlugin({
-      title: "安全屋 UCLOUD SAFE HOUSE",
+      title: "My Title",
       inject: true,
       hash: true,
       minify: {
